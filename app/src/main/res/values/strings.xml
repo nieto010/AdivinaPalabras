@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="pos" />
+    <string name="chr" />
+    <string name="testChr" />
+    <string name="score" />
+    <string name="lifes" />
+    <string name="zero" />
+    <string name="play" />
+    <string name="finish" />
+    <string name="help" />
+    <string name="easy" />
+    <string name="medium" />
+    <string name="advanced" />
+    <string name="empty" />
+    <string name="mostrarPalabra" />
+    <string name="title_activity_mostrar_palabras">MostrarPalabrasActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ingresar_letra">Ingresar letra</string>
+    <string name="adivinar">ADIVINAR</string>
+    <string name="nueva_partida">NUEVA PARTIDA</string>
+    <string name="hola">Hola</string>
+</resources>
